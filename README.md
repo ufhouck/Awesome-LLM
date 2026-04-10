@@ -488,7 +488,7 @@
 <details>
 <summary>more applications</summary>
 
-
+[AI-Cost-CLI](https://github.com/ufhouck/aicost) - A terminal tool for calculating and optimizing LLM API costs across providers like OpenAI and OpenRouter.
 - [MLflow](https://mlflow.org/) - MLflow: An open-source framework for the end-to-end machine learning lifecycle, helping developers track experiments, evaluate models/prompts, deploy models, and add observability with tracing.
 - [Swiss Army Llama](https://github.com/Dicklesworthstone/swiss_army_llama) - Comprehensive set of tools for working with local LLMs for various tasks.
 - [LiteChain](https://github.com/rogeriochaves/litechain) - Lightweight alternative to LangChain for composing LLMs 
